@@ -2,7 +2,7 @@
 htpassword generator using python
 
 example:
-
+```
 server {
     ...
     auth_basic           "Restricted area";
@@ -12,3 +12,4 @@ server {
         auth_basic off;
     }
 }
+```
